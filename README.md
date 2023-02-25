@@ -1,11 +1,6 @@
 ### Merhaba 👋
 ### Ben Beyzanur Mustafaoğlu 
 ### İstanbul Üniversitesi Siyasal Bilgiler Fakültesi işletme bölümü öğrencisiyim
-<p align="center">
-  <a href="https://www.linkedin.com/in/beyzanur-mustafaoglu/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-</p>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/beyzanur-mustafaoglu/)
 
