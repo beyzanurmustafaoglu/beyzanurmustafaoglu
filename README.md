@@ -7,6 +7,10 @@
   </a>
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/beyzanur-mustafaoglu/)
+
+
+
 
 <!--
 **beyzanurmustafaoglu/beyzanurmustafaoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
