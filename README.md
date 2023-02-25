@@ -1,5 +1,11 @@
 ### Merhaba 👋
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/beyzanur-mustafaoglu/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+</p>
+
 
 <!--
 **beyzanurmustafaoglu/beyzanurmustafaoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
